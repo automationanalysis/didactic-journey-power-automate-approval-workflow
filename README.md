@@ -14,7 +14,6 @@ The solution integrates Microsoft Forms, Excel, and Outlook to eliminate manual 
 
 ### 🔹 Approval Tracker
 ![Tracker](approval-tracker.jpg)
-
 ---
 
 ## 🎯 Objective
