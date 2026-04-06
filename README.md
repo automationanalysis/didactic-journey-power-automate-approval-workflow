@@ -10,11 +10,10 @@ The solution integrates Microsoft Forms, Excel, and Outlook to eliminate manual 
 ## 📸 Workflow Screenshots
 
 ### 🔹 Power Automate Flow
-![Flow](Flow.jpg)
+![Flow](Flow_.jpg)
 
 ### 🔹 Approval Tracker
 ![Tracker](approval-tracker.jpg)
----
 
 ## 🎯 Objective
 - Automate manual approval process  
