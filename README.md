@@ -7,6 +7,13 @@ Mar 2026 – Mar 2026
 Designed and implemented an end-to-end workflow automation using Microsoft Power Automate to streamline the approval process for employee requests.
 
 The solution integrates Microsoft Forms, Excel, and Outlook to eliminate manual intervention and improve efficiency.
+## 📸 Workflow Screenshots
+
+### 🔹 Power Automate Flow
+![Flow](Flow.jpg)
+
+### 🔹 Approval Tracker
+![Tracker](approval-tracker.jpg)
 
 ---
 
